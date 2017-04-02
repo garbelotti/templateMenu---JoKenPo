@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "templateMenu", "templateMenu.csproj", "{B39B0DF6-D7C5-A182-8728-6FBA1E448EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "templateMenu.Editor", "templateMenu.Editor.csproj", "{7F53E1EB-A0C9-496C-D5F4-CBFB3D5FA636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39B0DF6-D7C5-A182-8728-6FBA1E448EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39B0DF6-D7C5-A182-8728-6FBA1E448EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39B0DF6-D7C5-A182-8728-6FBA1E448EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39B0DF6-D7C5-A182-8728-6FBA1E448EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F53E1EB-A0C9-496C-D5F4-CBFB3D5FA636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F53E1EB-A0C9-496C-D5F4-CBFB3D5FA636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F53E1EB-A0C9-496C-D5F4-CBFB3D5FA636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F53E1EB-A0C9-496C-D5F4-CBFB3D5FA636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
